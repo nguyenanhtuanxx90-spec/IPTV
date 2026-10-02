@@ -1,0 +1,189 @@
+#EXTM3U
+
+#EXTINF:-1, Кино 18+
+https://autopilot.catcast.tv/content/40381/index.m3u8
+#EXTINF:-1,SEX PRIVE
+http://45.190.28.50/SEX_PRIVE/playlist.m3u8
+#EXTINF:-1,Brazzers TV
+http://185.23.80.23:8080/BrazzersTV/index.m3u8
+#EXTINF:-1,Barely Legal
+http://185.23.80.23:8080/BarelyLegal/index.m3u8
+#EXTINF:-1,Blue Hustler
+http://185.23.80.23:8080/BlueHustler/index.m3u8
+#EXTINF:-1,RusskayaNoch
+http://185.23.80.23:8080/RusskayaNoch/index.m3u8
+#EXTINF:-1,Passion_XXX
+http://89.33.29.115:8080/Passion_XXX/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Babes TV
+http://stream.mcquack.net/55/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Redlight HD
+http://stream.mcquack.net/51/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Hustler HD Europe
+http://stream.mcquack.net/52/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Brazzers TV Europe HD
+http://stream.mcquack.net/53/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Frenchlover
+http://stream.mcquack.net/54/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",WOODMAN
+http://stream.mcquack.net/56/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",GONZO
+http://stream.mcquack.net/59/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Exxxotica
+http://stream.mcquack.net/57/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Erox
+http://stream.mcquack.net/58/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Red Lips HD
+http://stream.mcquack.net/61/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Penthouse Gold HD
+http://stream.mcquack.net/66/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Blue Hustler
+http://stream.mcquack.net/280/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Vivid Red
+http://stream.mcquack.net/284/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Barely Legal TV
+http://stream.mcquack.net/289/index.m3u8
+#EXTINF:-1  parent-code="1234"tvg-rec="7" timeshift="7",Playboy TV
+http://stream.mcquack.net/290/index.m3u8
+#EXTINF:-1,Brazzers TV Europa
+http://193.239.186.231/BRAZZERS/index.m3u8
+#EXTINF:-1,BRAZZERS
+http://193.239.187.102/BRAZZERS/index.m3u8
+#EXTINF:-1,Red Lips 18+
+http://tinyurl.com/TvZaTak37/Red_Lips/manifest.m3u8
+#EXTINF:-1,Русская ночь 18+
+http://tinyurl.com/TvZaTak37/Russkaya_Noch/manifest.m3u8
+#EXTINF:-1,penthouse1
+http://185.98.209.11:81/penthouse1/index.m3u8?token=test
+#EXTINF:-1,penthous reality tv
+http://185.98.209.11:81/penthouse2/index.m3u8?token=test
+#EXTINF:-1,RK TV
+http://212.102.38.45/live/test_realitykings_sd_hevc/playlist.m3u8
+#EXTINF:-1,Brazzers
+http://212.102.38.45/live/test_brazzers_hd_hevc/playlist.m3u8
+#EXTINF:-1,Desire
+http://212.102.38.45/live/test_desire_hd_hevc/playlist.m3u8
+#EXTINF:-1,Extasy 4K
+http://212.102.38.45/live/test_extasy_hd_hevc/playlist.m3u8
+#EXTINF:-1,Dorcel TV
+http://212.102.38.45/live/test_dorcel_hd_hevc/playlist.m3u8
+#EXTINF:-1,Eroxxx
+http://212.102.38.45/live/test_eroxxx_hd_hevc/playlist.m3u8
+#EXTINF:-1,Erox
+http://212.102.38.45/live/test_erox_hd_hevc/playlist.m3u8
+#EXTINF:-1,Babes TV
+http://212.102.38.45/live/test_basbes_hd_hevc/playlist.m3u8
+#EXTINF:-1,XY MAX
+http://79.124.21.250:8199/play/DiemaSport/index.m3u8
+#EXTINF:-1,Porn Classic
+http://200.194.238.229:8383/live/pornclassic/playlist.m3u8
+#EXTINF:-1,Rough
+http://cdn.adultiptv.net/rough.m3u8
+#EXTINF:-1,Gangbang
+http://cdn.adultiptv.net/gangbang.m3u8
+#EXTINF:-1,Compilation
+http://cdn.adultiptv.net/compilation.m3u8
+#EXTINF:-1,Brunette
+http://cdn.adultiptv.net/brunette.m3u8
+#EXTINF:-1,Blonde
+http://cdn.adultiptv.net/blonde.m3u8
+#EXTINF:-1,Anal
+http://cdn.adultiptv.net/anal.m3u8
+#EXTINF:-1,Live Cams
+http://cdn.adultiptv.net/livecams.m3u8
+#EXTINF:-1,Russian
+http://cdn.adultiptv.net/russian.m3u8
+#EXTINF:-1,Russian r
+http://live.redtraffic.xyz/russian.m3u8
+#EXTINF:-1,Threesome
+http://cdn.adultiptv.net/threesome.m3u8
+#EXTINF:-1,Cuckold
+http://cdn.adultiptv.net/cuckold.m3u8
+#EXTINF:-1,Hardcore
+http://cdn.adultiptv.net/hardcore.m3u8
+#EXTINF:-1,Teen
+http://cdn.adultiptv.net/teen.m3u8
+#EXTINF:-1,Blowjob
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXTINF:-1,POV
+http://cdn.adultiptv.net/pov.m3u8
+#EXTINF:-1,Latina
+http://cdn.adultiptv.net/latina.m3u8
+#EXTINF:-1,Interracial
+http://cdn.adultiptv.net/interracial.m3u8
+#EXTINF:-1,Big Ass
+http://cdn.adultiptv.net/bigass.m3u8
+#EXTINF:-1,Fetish
+http://cdn.adultiptv.net/fetish.m3u8
+#EXTINF:-1,Big Tits
+http://cdn.adultiptv.net/bigtits.m3u8
+#EXTINF:-1,Big Dick
+http://cdn.adultiptv.net/bigdick.m3u8
+#EXTINF:-1,MILF
+http://cdn.adultiptv.net/milf.m3u8
+#EXTINF:-1,Pornstar
+http://cdn.adultiptv.net/pornstar.m3u8
+#EXTINF:-1,Lesbian
+http://cdn.adultiptv.net/lesbian.m3u8
+#
+#EXTINF:-1 group-title="Взрослые",Beate Uhse
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12163/index.m3u8
+#EXTINF:-1 group-title="Взрослые",BBC Pie
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12164/index.m3u8
+#EXTINF:-1 group-title="Взрослые",FTV Girls HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12165/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Bang POV
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12166/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Bang Bus
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12167/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Banana Fever
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12168/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Asshole Fever
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12169/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Ass Parade
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12178/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal Time
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12181/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal Teen Angels
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12183/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal Only
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12184/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Hot Wife XXX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12187/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Tushy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12188/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal Mom
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12189/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Anal 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12190/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Amateur Boxxx
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12191/index.m3u8
+#EXTINF:-1 group-title="Взрослые",All Anal
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12192/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Alex Legend
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12193/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Alba XXX 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12194/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Alba XXX 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12204/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Yosso TV Sexy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/14176/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Liberty Эротика FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/16069/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Tviksel Кино 18+ HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/18075/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Tviksel Кино 18+ International
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/18076/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Eromania 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/10049/index.m3u8
+#EXTINF:-1 group-title="Взрослые",FilmZone Plus HD EE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/20025/index.m3u8
+#EXTINF:-1 group-title="Взрослые",Duo 3 HD LT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/20026/index.m3u8
+#EXTINF:-1 group-title="Взрослые",CineMan ExExEx
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/20089/index.m3u8
+#EXTINF:-1 group-title="Взрослые",CineMan ExExEx TWO
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/20090/index.m3u8
+#EXTINF:-1 group-title="Взрослые",BCU Charm HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/18053/index.m3u8
+#EXTINF:-1 group-title="Взрослые",21 Sextury
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/12205/index.m3u8
